@@ -16,3 +16,7 @@
 
 # python
 *.pyc
+__pycache__
+
+# config
+token
